@@ -1,5 +1,5 @@
 FROM openjdk:8u232-jre-slim
-MAINTAINER gizmotronic@gmail.com
+MAINTAINER ayhansipahi@gmail.com
 
 ENV OPENFIRE_VERSION=4.5.0 \
     OPENFIRE_USER=openfire \

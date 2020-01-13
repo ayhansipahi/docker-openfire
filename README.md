@@ -122,7 +122,7 @@ To upgrade to newer releases:
   1. Download the updated Docker image:
 
   ```bash
-  docker pull gizmotronic/openfire:4.4.4
+  docker pull ayhansipahi/openfire:4.5.0
   ```
 
   2. Stop the currently running image:
@@ -142,7 +142,7 @@ To upgrade to newer releases:
   ```bash
   docker run -name openfire -d \
     [OPTIONS] \
-    gizmotronic/openfire:4.4.4
+    ayhansipahi/openfire:4.5.0
   ```
 
 ## Shell Access
